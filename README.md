@@ -2,6 +2,12 @@
 
 Be together, whenever. A simple way to text chat and plan things all in one place for flutter developers.
 
+
+- [x] Android
+- [x] IOS
+- [x] Web
+
+
 ## Try Now
 
 * [Live on web](https://flutterdevconnect.web.app/)
