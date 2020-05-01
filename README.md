@@ -1,6 +1,11 @@
-# [Flutterdevchat.web.app](https://flutterdevconnect.web.app/)
+# Flutterdevconnect.web.app
 
 Be together, whenever. A simple way to text chat and plan things all in one place for flutter developers.
+
+## Try Now
+
+* [Live on web](https://flutterdevconnect.web.app/)
+* [Download Apk](https://drive.google.com/file/d/1UZiSSbmd0tCDWAGPx2q3InR-y9IP7nXZ/view?usp=sharing)
 
 ## Installation
 
