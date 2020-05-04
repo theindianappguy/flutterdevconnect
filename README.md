@@ -6,6 +6,7 @@ Be together, whenever. A simple way to text chat and plan things all in one plac
 - [x] Android
 - [x] IOS
 - [x] Web
+- [x] PWA
 
 
 ## Try Now
