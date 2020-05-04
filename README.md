@@ -1,4 +1,4 @@
-# Flutterdevconnect.web.app
+# Flutterdevconnect
 
 Be together, whenever. A simple way to text chat and plan things all in one place for flutter developers.
 
