@@ -8,6 +8,19 @@ Be together, whenever. A simple way to text chat and plan things all in one plac
 - [x] Web
 - [x] PWA
 
+Android ✔️ IOS ✔️ Web ✔️
+## Features Included ✅
+- [x] Sign & Sign up with Firebase Authentication
+- [x] Forget Password
+- [x] Google SignIn (For Android,IOS & Web)
+- [x] Showing recent joined users in the SignIn screen
+- [x] Find Other Dev by username or message recent Flutterdevconnect.web.app members
+- [x] Send text message with real time chat with Firebase Firestore
+- [x] Send images
+- [x] Send GIF powered by giphy
+- [x] Block User
+- [x] Delete all messages
+and much more too come.....
 
 ## Try Now
 
